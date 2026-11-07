@@ -1,6 +1,6 @@
 cask "device-mcp" do
-  version "0.7.0,70"
-  sha256 "fad1781f5c4aa2e057e886e8accde0ae72576cb8f5737f563a078a9779af31c5"
+  version "0.8.0,80"
+  sha256 "0ccf0cbbed07167a50b3afef0d19e65ac6cc7b02fb781550d4c62fbd765cc89b"
 
   url "https://assets.proxyman.com/devicemcp/production/#{version.csv.first}/#{version.csv.second}/DeviceMCP_#{version.csv.first}_#{version.csv.second}.dmg"
   name "Device MCP"
